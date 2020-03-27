@@ -1,19 +1,17 @@
-# aigifs
+# Ai Gifs
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Descripción.
+Ai Gifs es una aplicación para consultar gifs, gifs que podrán demostrar tu estado de ánimo o que son graciosos, ¡¡Úsalos cómo quieras!!
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Ai surge de la palabra japonesa amor, porque ¿Quién no ama los gifs? 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Herramientas utilizadas.
+
+* VUE 
+* Bulma diseño CSS
+* Javascript
+* API Giphy
+
+
