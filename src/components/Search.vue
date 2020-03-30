@@ -29,7 +29,7 @@ components: {
         return {
                 play: false,
                 apiKey: 'vXdCFDPiGB1BuKQaJSSXOBnu2tBsOIhF',
-                searchEndpoint: 'http://api.giphy.com/v1/gifs/search?',
+                searchEndpoint: 'https://api.giphy.com/v1/gifs/search?',
                 limit: 10,
                 searchTherm: '',
                 gifs: [],
